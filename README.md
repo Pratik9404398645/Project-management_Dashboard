@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/2788ee2d-a861-488a-994d-e69d0454398c)
 # 📊 Project Management Power BI Dashboard
 
 This Power BI Dashboard provides a comprehensive visualization of project performance metrics, enabling stakeholders to monitor and evaluate the status, impact, and complexity of projects across departments.
