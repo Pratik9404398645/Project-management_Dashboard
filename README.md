@@ -89,19 +89,3 @@ Breakdown of projects managed by each individual:
 - DAX for calculated fields and KPIs
 - Slicers and Filters for dynamic interaction
 
----
-
-## 📌 How to Use
-1. Open the `.pbix` file in Power BI Desktop.
-2. Connect to your dataset or update the underlying data source.
-3. Use filters (department, phase, region, year) to explore insights.
-4. Hover over visual elements for tooltips and detailed breakdowns.
-
----
-
-## 🧾 Author
-Prepared by: **[Your Name / Organization]**  
-For academic, managerial, or internal reporting purposes.
-
----
-
