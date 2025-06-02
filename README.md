@@ -7,8 +7,11 @@ Current situation of the organization based on the high-level KPIs and data show
 ✅ 1. Strong Financial Impact from Projects
 
 Income Generation: ₹237.93M
+
 Process Improvement: ₹222.23M
+
 Cost Reduction: ₹194.57M
+
 Working Capital Improvement: ₹219.25M
 
 📌 Insight:
