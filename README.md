@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/2788ee2d-a861-488a-994d-e69d0454398c)
 # 📊 Project Management Power BI Dashboard
 
-current situation of the organization based on the high-level KPIs and data shown in your Power BI dashboard.
+Current situation of the organization based on the high-level KPIs and data shown in your Power BI dashboard.
 
 🔍 Current Situation Analysis
 ✅ 1. Strong Financial Impact from Projects
