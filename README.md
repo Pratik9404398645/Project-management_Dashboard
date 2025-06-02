@@ -5,28 +5,22 @@ Current situation of the organization based on the high-level KPIs and data show
 
 🔍 Current Situation Analysis
 ✅ 1. Strong Financial Impact from Projects
+
 Income Generation: ₹237.93M
-
 Process Improvement: ₹222.23M
-
 Cost Reduction: ₹194.57M
-
 Working Capital Improvement: ₹219.25M
 
 📌 Insight:
 These numbers are very healthy, indicating that the strategic projects are generating strong returns, both from new revenue and operational efficiencies. Projects are:
 
 Increasing income,
-
 Reducing operating costs,
-
 Improving cash availability.
 
 ✅ 2. High Average Project Completion Rate – 87.01%
 Indicates that the majority of projects are being completed successfully or are on track.
-
 Admin & BI (88.17%), Supply Chain (87.92%), and Warehouse (87.48%) all show high execution consistency.
-
 Phase 2 (Develop) completion: 100%, Phase 3 (Plan): 93% – suggests good planning & execution discipline.
 
 📌 Insight:
@@ -37,16 +31,12 @@ The project management office (PMO) is effectively tracking timelines and delive
 
 📌 Insight:
 While ongoing and completed project counts are healthy, 17 projects on hold (~17%) is a signal to investigate:
-
 Are these delayed due to resource constraints?
-
 External dependencies? Lack of clarity?
-
 This is where proactive follow-ups and risk management from the JD become critical.
 
 ✅ 4. Balanced Resource Allocation (Projects by Manager)
 Project load is well-distributed among managers: Most handle 12–18 projects.
-
 No one seems overloaded, suggesting good resource planning.
 
 📌 Insight:
@@ -57,14 +47,11 @@ This supports smooth coordination across teams, which aligns with JD requirement
 
 📌 Insight:
 ~40% of projects are high-complexity. That’s substantial.
-
 These likely drive the most value but carry the most risk.
-
 Senior management must ensure adequate monitoring, skilled teams, and risk buffers are in place.
 
 ✅ 6. Positive Trend in Cost vs Benefit (Bar Chart)
 In most years, project benefits are visibly higher than costs.
-
 Indicates a healthy ROI on strategic initiatives.
 
 📌 Insight:
